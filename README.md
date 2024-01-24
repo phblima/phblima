@@ -1,3 +1,3 @@
 
-### Olá , sou Paulo Henrique ☁️
+### Olá , sou o Paulo Henrique ☁️
 
