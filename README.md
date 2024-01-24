@@ -9,4 +9,5 @@
  <a href="mailto:ppphenrique@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>  
  <a href="mailto:paulohenriquephbl@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"</a>  
 
+![phblima GitHub stats](https://github-readme-stats.vercel.app/api?username=phblima&show_icons=true&theme=radical)
 </div>
