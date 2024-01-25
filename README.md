@@ -3,7 +3,7 @@
 - Atualmente exerço a função de analista de suporte PL na MV Sistemas.
 - Formado em redes de computadores pela instituição de ensino UNIBRATEC.
 - Estudante de cloud computing na instituição de ensino UNINASSAU.
-- Estudo para ser um analista DevOps.
+- Estudando para ser um analista DevOps.
 
 <picture>
     <source
