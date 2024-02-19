@@ -23,9 +23,6 @@
         
 <a href="https://gitlab.com/phblima" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"</a>    
  
-
-
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=phblima&bg_color=d1f7ff&color=4c529e&line=4c9e69&point=215dab&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
