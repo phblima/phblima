@@ -1,6 +1,6 @@
 
 ### Olá ! Eu sou o Paulo Henrique ☁️
-- Atualmente exerço a função de analista de suporte PL na MV Sistemas.
+- Atualmente exerço a função de analista de suporte PL.
 - Formado em redes de computadores pela instituição de ensino UNIBRATEC.
 - Estudante de cloud computing na instituição de ensino UNINASSAU.
 - Estudando para ser um analista DevOps.
