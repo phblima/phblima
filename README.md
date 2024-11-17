@@ -1,6 +1,6 @@
 
 ### Olá ! Eu sou o Paulo Henrique ☁️
-- Atualmente exerço a função de Analista de negócios  .
+- Atualmente exerço a função de Analista de suporte .
 - Formado em redes de computadores pela instituição de ensino UNIBRATEC.
 - Estudante de cloud computing na instituição de ensino UNINASSAU.
 
